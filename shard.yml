@@ -1,15 +1,15 @@
 name: hunspell
-version: 0.1.2
+version: 0.1.3
 
 authors:
   - Postmodern <postmodern.mod3@gmail.com>
 
-crystal: ">= 0.35.1"
+crystal: ">=1.6.0"
 
 license: MIT
 
 library:
-  libhunspell: ">= 1.3.4, <= 1.7.0"
+  libhunspell: ">= 1.3.4"
 
 development_dependencies:
   spectator:
